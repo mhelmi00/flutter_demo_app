@@ -1,0 +1,10 @@
+{
+  "counter": "You have pushed the button this many times: ",
+  "@counter": {
+    "description": "The number of times button is pushed messages"
+  },
+  "apptitle": "Flutter Home Page ",
+  "@apptitle": {
+    "description": "App Title"
+  }
+}
